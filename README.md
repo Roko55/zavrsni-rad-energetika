@@ -3,7 +3,7 @@
 **Autor:** Roko Bošković
 **Mentor:** prof. dr. sc. Neven Duić
 **Fakultet:** Sveučilište u Zagrebu, Fakultet strojarstva i brodogradnje
-**Datum:** [Upiši datum, npr. Srpanj 2025.]
+**Datum:** [Srpanj 2025.]
 
 ---
 
